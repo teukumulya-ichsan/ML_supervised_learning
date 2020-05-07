@@ -1,5 +1,5 @@
 # Supervised Learning by [Teuku Mulia Ichsan](https://github.com/teukumulya-ichsan) 
-Learning the basics of machine learning from scratch. For the first phase, we will learn supervised learning techniques using scikit-learn.
+Learning the basics of machine learning from scratch. For the first phase, we will learn supervised learning techniques using scikit-learn and dondOml.
 
 # Starter Guide
 
