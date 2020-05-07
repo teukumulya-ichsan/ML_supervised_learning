@@ -1,5 +1,5 @@
 # Supervised Learning by [Teuku Mulia Ichsan](https://github.com/teukumulya-ichsan) 
-Learning the basics of machine learning from scratch. For the first phase, we will learn supervised learning techniques using scikit-learn and dondOml.
+Learning the basics of machine learning from scratch. For the first phase, we will learn supervised learning techniques using scikit-learn and chanML.
 
 # Starter Guide
 
@@ -43,9 +43,13 @@ Learning the basics of machine learning from scratch. For the first phase, we wi
     ```
     cd ML_supervised_learning/
     ```
-- Run this command to install the environment `dondOml`
+- Run this command to install the environment `chanML`
     ```
-    conda env create -f env_dondOml.yml
+    conda env create -f env_chanML.yml
+    ```
+- Or :
+    ```
+    conda deactivate && conda env create -f env_chanML.yml && conda activate chanML 
     ```
 
 ## Step 4: Make sure the environment is installed properly

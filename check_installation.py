@@ -5,9 +5,9 @@ req = {
     "scikit-learn", "matplotlib", "seaborn", "ipywidgets", "nltk", 
     "xgboost", "scikit-optimize", "jcopml", "luwiji", "pillow"
 }
-env_name = "dondOml"
+env_name = "chanML"
 working_folder = "ML_supervised_learning"
-env_file = "env_dondOml.yml"
+env_file = "env_chanML.yml"
 
 
 def existing_env():
